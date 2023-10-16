@@ -1,0 +1,39 @@
+#Home{
+    background:linear-gradient(180deg, LawnGreen 0%,#1E90FF 90%);
+    padding: 6% 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Home1{
+    width: 40%;
+    background: transparent;
+    border: 2px solid black;
+    border-radius: 18px;
+    padding: 3% 6%;
+}
+
+.Home1 h2{
+    font-size: 58px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 8px;
+    border-bottom: 2px solid black;
+}
+
+.Home1 p{
+    font-size: 28px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 8px;
+    color: white;
+}
+
+.Next{
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:2px 12px;
+    background-color: black;
+    color: white;
+}

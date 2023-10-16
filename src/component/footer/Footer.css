@@ -1,0 +1,44 @@
+#Footer{
+    background-color:#ffd900b7 ;
+}
+
+#Footer1 h2{
+    font-size: 56px;
+    font-weight: 500;
+    padding: 22px 0;
+}
+
+.Footer_social__link span{
+    padding: 0 12px;
+}
+
+.Footer_social__link a{
+    text-decoration: none;
+}
+
+.Footer_social__link h3{
+    font-size: 40px;
+    font-weight: 400;
+    color: black;
+}
+
+.Footer_social__link h3:hover{
+    color: #20B2AA;
+}
+
+.Footer_social__link p{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+}
+
+.Footer_social__link p:hover{
+    color: #20B2AA;
+}
+
+#Footer3{
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+}
